@@ -1,2 +1,2 @@
 ### Hi Code_Andromeda 👋
-[<img scr=[![brillo.md.jpg](https://s3.gifyu.com/images/brillo.md.jpg)](https://gifyu.com/image/tODo)>]
+[<img scr=[<a href="https://gifyu.com/image/tODo"><img src="https://s3.gifyu.com/images/brillo.th.jpg" alt="brillo.jpg" border="0" /></a>]
