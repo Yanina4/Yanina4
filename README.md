@@ -15,6 +15,7 @@ Quiero seguir aprendiendo e ir ayudando en proyectos. Sueño con algún día log
 💖 Podes comunicarte conmigo a través de mis redes sociales.
 
 🌸 Twitter: https://twitter.com/Andromeda_Yana
+
 🌸 Instagram: https://www.instagram.com/?hl=es-la
 
 
