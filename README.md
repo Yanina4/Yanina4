@@ -10,9 +10,9 @@ Quiero seguir aprendiendo e ir ayudando en proyectos. Sueño con algún día log
 
 🌸 En la actuaidad estoy haciendo mi propia app, que muy pronto estare subiendo;
 
-💖 Tambien estoy aramando mi portafolio personal que voy a estar compartiendo y actualizando :)
+💖 A demás estoy armando mi portafolio personal que también voy a estar compartiendo y actualizando :)
 
-💖 Podes comunicarte conmigo a través de mis redes sociales.
+💖 Podés comunicarte conmigo a través de mis redes sociales:
 
 🌸 Twitter: https://twitter.com/Andromeda_Yana
 
