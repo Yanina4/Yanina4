@@ -2,7 +2,7 @@
 
 ### Hi Code_Andromeda 👋
 
-Me presento, mi nombre es Yanina, soy aprendiz de programación. Me destaco actualmente en Html, Css y JavaScript.
+Me presento, mi nombre es Yanina, soy aprendiz de programación y diseñadora web. Me destaco en haceer páginas minimalistas, actualmente manejo en Html, Css y JavaScript.
 
 ✨ Voy por más! ✨
 
@@ -19,6 +19,8 @@ Quiero seguir aprendiendo e ir ayudando en proyectos. Sueño con algún día log
 🌸 Instagram: https://www.instagram.com/?hl=es-la
 
 🌸 Linkedin: linkedin.com/in/yanina-soledad-unsaga-095b47a3
+
+🌸 Dribble: https://dribbble.com/YanaUnsa
 
 
 <a><img src="https://s3.gifyu.com/images/banner40b0b0d2abdbec79.jpg" alt="banner40b0b0d2abdbec79.jpg" border="0" /></a>
