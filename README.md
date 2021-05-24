@@ -2,7 +2,7 @@
 
 ### Hi Code_Andromeda 👋
 
-Me presento, mi nombre es Yanina, soy aprendiz de programación y diseñadora web. Me destaco en haceer páginas minimalistas, actualmente manejo en Html, Css y JavaScript.
+Me presento, mi nombre es Yanina, soy aprendiz de programación y diseñadora web. Me destaco en hacer páginas web y aplicaciones minimalistas, actualmente manejo en Html, Css y JavaScript.
 
 ✨ Voy por más! ✨
 
