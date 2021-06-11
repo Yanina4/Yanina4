@@ -2,7 +2,7 @@
 
 ### Hi Code_Andromeda 👋
 
-Me presento, mi nombre es Yanina, soy aprendiz de programación y diseñadora web. Me destaco en hacer páginas web y aplicaciones minimalistas, actualmente manejo en Html, Css y JavaScript.
+Me presento, mi nombre es Yanina, soy aprendiz de programación y diseñadora Ux/Ui. Me destaco en hacer páginas web y aplicaciones minimalistas, actualmente manejo en Html, Css y JavaScript.
 
 ✨ Voy por más! ✨
 
@@ -24,3 +24,6 @@ Quiero seguir aprendiendo e ir ayudando en proyectos. Sueño con algún día log
 
 
 <a><img src="https://s3.gifyu.com/images/banner40b0b0d2abdbec79.jpg" alt="banner40b0b0d2abdbec79.jpg" border="0" /></a>
+
+
+<a href="https://gifyu.com/image/oAQh"><img src="https://s6.gifyu.com/images/Proyecto-app1-3.png" alt="Proyecto-app1-3.png" border="0" /></a>
