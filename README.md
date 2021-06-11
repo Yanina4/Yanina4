@@ -24,3 +24,5 @@ Quiero seguir aprendiendo e ir ayudando en proyectos. Sueño con algún día log
 
 
 <a><img src="https://s3.gifyu.com/images/banner40b0b0d2abdbec79.jpg" alt="banner40b0b0d2abdbec79.jpg" border="0" /></a>
+
+<a href="https://gifyu.com/image/oA6r"><img src="https://s6.gifyu.com/images/Group-1.png" alt="Group-1.png" border="0" /></a>
