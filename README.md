@@ -2,13 +2,11 @@
 
 ### Hi Code_Andromeda 👋
 
-Me presento, mi nombre es Yanina, soy aprendiz de programación y diseñadora Ux/Ui. Me destaco en hacer páginas web y aplicaciones minimalistas, actualmente manejo en Html, Css y JavaScript.
+Hola, soy Yani! Diseñadora web y analista de datos jr. Tengo manejo en Html, Css, JavaScript, gracias a los cursos de Linkedin y la práctica desarrollando mi portafolio personal, También tego conocimientos de Sql y Phyton.
 
-✨ Voy por más! ✨
+Me gustaría que la tecnología llegue a todos lados, sobre todo a las personas grandes. Sueño con que un día todos podamos tener los conocimientos para poder estar comunicados. También creo que el día de mañana todo lo vamos a poder lograr gracias a la tecnología y a los conocimientos que tengamos de ella,
 
-Quiero seguir aprendiendo e ir ayudando en proyectos. Sueño con algún día lograr ser una gran Full Stack Developer.
-
-🌸 En la actuaidad estoy haciendo mi propia app, que muy pronto estare subiendo;
+Amo profundamente el código y todo lo que podemos lograr con el.
 
 💖 A demás estoy armando mi portafolio personal que también voy a estar compartiendo y actualizando :)
 
