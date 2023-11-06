@@ -2,7 +2,7 @@
 
 ### Hi Code_Andromeda 👋
 
-Hola, soy Yani! Diseñadora web y analista de datos jr. Tengo manejo en Html, Css, JavaScript, gracias a los cursos de Linkedin y la práctica desarrollando mi portafolio personal, También tego conocimientos de Sql y Phyton.
+Hola, soy Yani, pero me gusta queme digan Andrómeda! Diseñadora web y analista de datos jr. Tengo manejo en Html, Css, JavaScript, gracias a los cursos de Linkedin y la práctica desarrollando mi portafolio personal, También tego conocimientos de Sql y Phyton.
 
 Me gustaría que la tecnología llegue a todos lados, sobre todo a las personas grandes. Sueño con que un día todos podamos tener los conocimientos para poder estar comunicados. También creo que el día de mañana todo lo vamos a poder lograr gracias a la tecnología y a los conocimientos que tengamos de ella,
 
