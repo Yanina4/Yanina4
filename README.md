@@ -3,7 +3,7 @@
 ### Hi Code_Gatioshka 👋
 
 Soy Yani — aunque en el mundo digital me conocen como **Gatioshka** 🐾✨  
-Diseñadora web enfocada en UX/UI y analista de datos Jr.
+Desarrolladora Web & Diseñadora Digital | UX, Procesos y Contenidos.
 
 Me especializo en crear experiencias digitales intuitivas, funcionales y visualmente atractivas, combinando diseño, desarrollo frontend y análisis de datos para construir productos eficientes y bien pensados.
 
